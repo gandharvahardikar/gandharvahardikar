@@ -1,0 +1,42 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gandharva%20Hardikar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" />
+</div>
+
+<div align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+AI+%2B+Full-Stack+Products+%F0%9F%9A%80;Open+to+Collaborate+on+OSS+%F0%9F%A4%9D;Ask+me+about+ML+%F0%9F%A7%A0;DSA+Grind+Mode+ON+%F0%9F%94%A5;You+Can+Still+Win+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gandharvahardikar/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/heygandharva">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@gandharvaa">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:gandharva.hardikar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvcounter/?username=gandharvahardikar&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+</div>
+
+---
+
+## 🖥️ `whoami`
+
+```typescript
+const gandharva = {
+  role        : "Final-Year CE Student → Aspiring SWE / AI Engineer",
+  location    : "Dhule, Maharashtra 🇮🇳",
+  currentFocus: ["DSA Mastery", "AI-Driven Full-Stack Apps", "Open Source"],
+  lookingFor  : "Internships & Full-Time Roles 🔍",
+  askMeAbout  : ["Machine Learning", "FastAPI", "React", "PyTorch"],
+  funFact     : "You can still win ⚡",
+  openTo      : "Collaborating on cool OSS projects 🤝",
+};
