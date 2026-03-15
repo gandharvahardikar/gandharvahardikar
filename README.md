@@ -18,8 +18,16 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gandharvahardikar&icon=1&color=7)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gandharva) 
+### 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gandharvahardikar/gandharvahardikar/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gandharvahardikar/gandharvahardikar/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gandharvahardikar/gandharvahardikar/output/github-snake.svg"/>
+</picture>
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/gandharva) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
