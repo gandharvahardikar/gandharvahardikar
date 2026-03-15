@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on SmartGrade AI<br><br>🌱 I'm currently learning DSA<br><br>👯 I'm looking to collaborate on Open Source Projects<br><br>🤝 I'm looking for help with Learning DSA<br><br>💬 Ask me about **machine learning **<br><br>📫 How to reach me gandharva.hardikar@gmail.com<br><br>⚡ Fun fact the best time you could do things was 5 years ago and the second best time is now<br><br>👨‍💻 All of my projects are available at https://heygandharva.me<br><br>📄 Know about my experiences https://drive.google.com/drive/u/0/folders/1061QOV4USwjnY25S6wQh-_flKvUZirGO
+🔭 I'm currently working on SmartGrade AI<br><br>🌱 I'm currently learning DSA<br><br>👯 I'm looking to collaborate on Open Source Projects<br><br>🤝 I'm looking for help with Learning DSA<br><br>💬 Ask me about machine learning<br><br>📫 Reach me gandharva.hardikar@gmail.com<br><br>⚡ Fun fact the best time you could do things was 5 years ago and the second best time is now<br><br>👨‍💻 All of my projects are available at https://heygandharva.me<br><br>📄 Know about my experiences https://drive.google.com/drive/u/0/folders/1061QOV4USwjnY25S6wQh-_flKvUZirGO
 
 
 ## 🌐 Socials:
